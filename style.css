@@ -36,10 +36,6 @@ p {
     font-size: 14px;
 }
 
-.rotated {
-    transform: rotate(180deg);
-}
-
 .active {
         transform: rotate(180deg);
 }
